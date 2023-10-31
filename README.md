@@ -17,7 +17,7 @@ hi ^^! i'm Katerina Deeva !
 
 ### :woman_technologist: About Me :
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Researcher and contributing to math science papers.
 
 - ⚛️: Exploring Technical Content Writing.
 
