@@ -19,14 +19,15 @@ hi ^^! i'm Katerina Deeva !
 
 - :telescope: I’m working as a Researcher and contributing to math science papers.
 
-- ⚛️: Exploring Technical Content Writing.
+- ⚛️: Exploring Deep Learning.
 
 - :zap: In my free time, I stick to Kaggle and make my own research.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 💻 Hard skills: Machine learning, Python, NLP, Hue, PostgreSQL, Algorithms, Linux, Git, C++, Calculus, Sklearn, HTML, English C1, Linear Algebra, Statistics, Pandas, Numpy, Plotly, Bash, Pyspark, Pytorch, Kaggle, BPMN, UML, English C1, Confluence, SQL, PostgreSQL, Microsoft Office
 
+---
+## My Tech Stack: 
 ---
 
 ### Languages: 
@@ -37,15 +38,29 @@ hi ^^! i'm Katerina Deeva !
 
 <div id="badges">
   <img src="https://img.shields.io/badge/Pytorch-blue?style=for-the-badge&logo=pytorch&logoColor=white" alt="Pytorch Badge"/>
-  <img src="https://img.shields.io/badge/Plotly-blue?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly Badge"/>
-  <img src="https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
-  <img src="https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy Badge"/>
+  <img src="https://img.shields.io/badge/Plotly-coral?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly Badge"/>
+  <img src="https://img.shields.io/badge/Pandas-pink?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
+  <img src="https://img.shields.io/badge/Numpy-yellow?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy Badge"/>
   <img src="https://img.shields.io/badge/Skitlearn-orange?style=for-the-badge&logo=skitlearn&logoColor=white" alt="Skit-learn Badge"/>
   <img src="https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=keras&logoColor=white" alt="Keras Badge"/>
 </div>
 
-  ---
+### Research & Education: 
 
+<div id="badges">
+  <img src="https://img.shields.io/badge/Researchgate-mint?style=for-the-badge&logo=researchgate&logoColor=white" alt="Researchgate Badge"/>
+  <img src="https://img.shields.io/badge/Datacamp-red?style=for-the-badge&logo=datacamp&logoColor=black" alt="Datacamp Badge"/>
+</div>
+
+### My favourite Soft: 
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/VisualStudioCode-blue?style=for-the-badge&logo=visualStudioCode&logoColor=white" alt="Visual Studio Code Badge"/>
+  <img src="https://img.shields.io/badge/Jupiter-orange?style=for-the-badge&logo=jupiter&logoColor=black" alt="Jupiter Badge"/>
+</div>
+
+---
+h
 👨‍🎓 Courses:
 * Data Science Summer school & Hertie School Berlin - Data Science Summer School 2022
 * MIPT course "Linux/Git
